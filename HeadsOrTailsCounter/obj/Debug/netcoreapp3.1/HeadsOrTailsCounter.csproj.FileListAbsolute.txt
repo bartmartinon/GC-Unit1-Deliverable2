@@ -1,0 +1,13 @@
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\bin\Debug\netcoreapp3.1\HeadsOrTailsCounter.exe
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\bin\Debug\netcoreapp3.1\HeadsOrTailsCounter.deps.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\bin\Debug\netcoreapp3.1\HeadsOrTailsCounter.runtimeconfig.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\bin\Debug\netcoreapp3.1\HeadsOrTailsCounter.runtimeconfig.dev.json
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\bin\Debug\netcoreapp3.1\HeadsOrTailsCounter.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\bin\Debug\netcoreapp3.1\HeadsOrTailsCounter.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\obj\Debug\netcoreapp3.1\HeadsOrTailsCounter.csprojAssemblyReference.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\obj\Debug\netcoreapp3.1\HeadsOrTailsCounter.AssemblyInfoInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\obj\Debug\netcoreapp3.1\HeadsOrTailsCounter.AssemblyInfo.cs
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\obj\Debug\netcoreapp3.1\HeadsOrTailsCounter.csproj.CoreCompileInputs.cache
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\obj\Debug\netcoreapp3.1\HeadsOrTailsCounter.dll
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\obj\Debug\netcoreapp3.1\HeadsOrTailsCounter.pdb
+C:\Users\Martinon\Documents\Grand Circus\VS2019 Projects\HeadsOrTailsCounter\HeadsOrTailsCounter\obj\Debug\netcoreapp3.1\HeadsOrTailsCounter.genruntimeconfig.cache
